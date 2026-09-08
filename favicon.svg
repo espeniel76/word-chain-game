@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#0b1020"/>
+  <rect x="70" y="120" width="240" height="150" rx="36" fill="#2563eb"/>
+  <path d="M130 262 L110 320 L180 270 Z" fill="#2563eb"/>
+  <rect x="202" y="242" width="240" height="150" rx="36" fill="#1e293b" stroke="#334155" stroke-width="6"/>
+  <path d="M382 384 L402 442 L332 392 Z" fill="#1e293b"/>
+  <text x="190" y="212" font-family="system-ui, sans-serif" font-size="96" font-weight="800" fill="#ffffff" text-anchor="middle">끝</text>
+  <text x="322" y="334" font-family="system-ui, sans-serif" font-size="96" font-weight="800" fill="#e5e7eb" text-anchor="middle">말</text>
+</svg>
